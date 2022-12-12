@@ -15,7 +15,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    position: relative;
 }
 
 .header h1 {
@@ -50,7 +49,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 20px;
     word-spacing: 20%;
 }
 
@@ -199,6 +198,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
